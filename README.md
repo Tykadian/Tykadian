@@ -11,14 +11,14 @@ I used to be a novice Roblox developer and freelancing game builder; although I 
 
 ### My Passion Project
 [![Readme Card](https://github-readme-stats-jet-tau.vercel.app/api/pin/?username=Tykadian&theme=midnight-purple&layout=compact&repo=Lucario_Bot)](https://github.com/Tykadian/Lucario_Bot)
-<img align="left" alt="iLluZionZz Github Stats" src="https://github-readme-stats-jet-tau.vercel.app/api?username=iLluZionZz&show_icons=true&theme=midnight-purple&layout=compact" />
-<img align="left" alt="iLluZionZz Github Stats" src ="https://github-readme-stats-jet-tau.vercel.app/api/top-langs/?username=iLluZionZz&theme=midnight-purple&layout=compact" />
+<img align="left" alt="Tykadian Github Stats" src="https://github-readme-stats-jet-tau.vercel.app/api?username=Tykadian&show_icons=true&theme=midnight-purple&layout=compact" />
+<img align="left" alt="Tykadian Github Stats" src ="https://github-readme-stats-jet-tau.vercel.app/api/top-langs/?username=Tykadian&theme=midnight-purple&layout=compact" />
 
 #### Shameless self promotion:
 
 <a href="https://www.youtube.com/channel/UCgjeFArtdf-rxHlKJCNg-yw" rel="nofollow"><img src="https://img.shields.io/badge/Youtube-bf0d13?style=for-the-badge&logo=youtube&logoColor=white" style="max-width:100%;"></a></code>
 <a href="https://discord.gg/CFxfy6rv4P" rel="nofollow"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&amp;logo=discord&amp;logoColor=white" style="max-width: 100%;"></a>
-<a href="https://steamcommunity.com/id/iLluZionZz/" rel="nofollow"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" style="max-width:100%;"></a></code>
+<a href="https://steamcommunity.com/id/Tykadian/" rel="nofollow"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" style="max-width:100%;"></a></code>
 
 [Credit to codeSTACKr for the Github Biography](https://youtu.be/ECuqb5Tv9qI)
 [& credit to anuraghazra for the Github Stats!](https://github.com/anuraghazra/github-readme-stats)
@@ -49,7 +49,7 @@ I used to be a novice Roblox developer and freelancing game builder; although I 
 
 ###
 
-<img src="https://raw.githubusercontent.com/iLluZionZz/iLluZionZz/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Tykadian/Tykadian/output/snake.svg" alt="Snake animation" />
 
 ###
 
